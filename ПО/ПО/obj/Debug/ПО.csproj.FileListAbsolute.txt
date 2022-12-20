@@ -1,0 +1,22 @@
+D:\Лабораторки\Практика 3\Щербаков\ПО\ПО\bin\Debug\ПО.exe.config
+D:\Лабораторки\Практика 3\Щербаков\ПО\ПО\bin\Debug\ПО.exe
+D:\Лабораторки\Практика 3\Щербаков\ПО\ПО\bin\Debug\ПО.pdb
+D:\Лабораторки\Практика 3\Щербаков\ПО\ПО\obj\Debug\ПО.csproj.AssemblyReference.cache
+D:\Лабораторки\Практика 3\Щербаков\ПО\ПО\obj\Debug\ПО.csproj.SuggestedBindingRedirects.cache
+D:\Лабораторки\Практика 3\Щербаков\ПО\ПО\obj\Debug\ПО.csproj.CoreCompileInputs.cache
+D:\Лабораторки\Практика 3\Щербаков\ПО\ПО\obj\Debug\ПО.exe
+D:\Лабораторки\Практика 3\Щербаков\ПО\ПО\obj\Debug\ПО.pdb
+E:\Практика\Щербаков\ПО\ПО\bin\Debug\ПО.exe.config
+E:\Практика\Щербаков\ПО\ПО\bin\Debug\ПО.exe
+E:\Практика\Щербаков\ПО\ПО\bin\Debug\ПО.pdb
+E:\Практика\Щербаков\ПО\ПО\obj\Debug\ПО.csprojAssemblyReference.cache
+E:\Практика\Щербаков\ПО\ПО\obj\Debug\ПО.csproj.CoreCompileInputs.cache
+E:\Практика\Щербаков\ПО\ПО\obj\Debug\ПО.exe
+E:\Практика\Щербаков\ПО\ПО\obj\Debug\ПО.pdb
+E:\Практика22\Щербаков\ПО\ПО\bin\Debug\ПО.exe.config
+E:\Практика22\Щербаков\ПО\ПО\bin\Debug\ПО.exe
+E:\Практика22\Щербаков\ПО\ПО\bin\Debug\ПО.pdb
+E:\Практика22\Щербаков\ПО\ПО\obj\Debug\ПО.csprojAssemblyReference.cache
+E:\Практика22\Щербаков\ПО\ПО\obj\Debug\ПО.csproj.CoreCompileInputs.cache
+E:\Практика22\Щербаков\ПО\ПО\obj\Debug\ПО.exe
+E:\Практика22\Щербаков\ПО\ПО\obj\Debug\ПО.pdb
